@@ -1,0 +1,6 @@
+{
+  "name": "QR Pro",
+  "description": "Gerador de QR Code limpo e profissional para links, textos e arquivos.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
