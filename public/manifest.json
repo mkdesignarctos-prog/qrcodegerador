@@ -1,0 +1,14 @@
+{
+  "manifest_version": 3,
+  "name": "MK QR Pro Extension",
+  "version": "1.0.0",
+  "description": "Professional QR Code Generator by MK Design Studio",
+  "action": {
+    "default_popup": "popup.html",
+    "default_icon": "icon128.png"
+  },
+  "icons": {
+    "128": "icon128.png"
+  },
+  "permissions": ["activeTab", "downloads"]
+}
